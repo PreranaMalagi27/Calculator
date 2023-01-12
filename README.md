@@ -29,4 +29,5 @@ multiplication_result:  (https://user-images.githubusercontent.com/115856559/212
 Division:
 
 division:  (https://user-images.githubusercontent.com/115856559/212002184-ca225cc2-b616-416b-a4a5-98354bcca59c.png)
+
 division_result: (https://user-images.githubusercontent.com/115856559/212002260-65cfc88e-ffd0-4936-813a-5b0306675d31.png)
