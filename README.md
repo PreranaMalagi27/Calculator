@@ -13,7 +13,7 @@ This is how my Calculator looks like:
 Addition:
 
 addition: (https://user-images.githubusercontent.com/115856559/212001640-58c3044d-a164-4366-9fae-b95f39e3a7cb.png)
-addition_result: (https://user-images.githubusercontent.com/115856559/212001714-889300ac-782d-4371-bbd7-f0ea3b6f84ae.png)
+addition_result:  (https://user-images.githubusercontent.com/115856559/212001714-889300ac-782d-4371-bbd7-f0ea3b6f84ae.png)
 
 Substraction: 
 
@@ -28,4 +28,4 @@ multiplication_result:  (https://user-images.githubusercontent.com/115856559/212
 Division:
 
 division:  (https://user-images.githubusercontent.com/115856559/212002184-ca225cc2-b616-416b-a4a5-98354bcca59c.png)
-division_result:  (https://user-images.githubusercontent.com/115856559/212002260-65cfc88e-ffd0-4936-813a-5b0306675d31.png)
+division_result: (https://user-images.githubusercontent.com/115856559/212002260-65cfc88e-ffd0-4936-813a-5b0306675d31.png)
